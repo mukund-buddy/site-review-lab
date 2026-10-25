@@ -8,8 +8,7 @@
 
 > Part of [The Antigle](https://github.com/mukund-buddy) 🔥 — built with AI assistance, tested and refined by hand.
 
-**Live demo:** [_coming soon_ · [Repository](https://github.com/mukund-buddy/site-review-lab)](https://mukund-buddy.github.io/site-review-lab/)
-
+**Live demo:**  [link](https://mukund-buddy.github.io/site-review-lab/)
 ---
 
 ## 🎯 Why This Exists
